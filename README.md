@@ -1,5 +1,8 @@
 💰 Finans – Organização Financeira
-Finans é um website simples e elegante desenvolvido para ajudar usuários a organizar suas finanças pessoais de forma prática e visual. Criado com HTML5, CSS3 e Bootstrap, o projeto traz uma interface responsiva que se adapta a diferentes dispositivos, tornando o controle financeiro acessível em qualquer lugar.
+
+Finans é um website simples e elegante desenvolvido para ajudar usuários a organizar suas finanças pessoais de forma prática e visual. 
+Criado com HTML5, CSS3 e Bootstrap, o projeto traz uma interface responsiva que se adapta a diferentes dispositivos, 
+tornando o controle financeiro acessível em qualquer lugar.
 
 🚀 Tecnologias Utilizadas:
 
